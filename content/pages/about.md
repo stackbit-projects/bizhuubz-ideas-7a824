@@ -30,11 +30,16 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Let’s face it. Most non-finance staff don’t love finance. Many actively dislike and avoid financial reports and discussions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+At Accounting Made Easy, we have redefined finance training for all those who previously believed that in order to understand accounting basics and financial reports you must first be a math nerd.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+To run a successful business, non-finance staff HAVE TO HAVE a real handle on their numbers and understand their reports and ratios.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
 
-*Thank You for reading!*
+
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+
+
+
+Thank You for reading! Please [contact us](https://www.targetedwebtraffic.com/contact-us/) for more information if you need.
