@@ -32,7 +32,6 @@ sections:
           are common customers in between.
   - title: The Best Ways to Increase Online Sales up to 300%
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
