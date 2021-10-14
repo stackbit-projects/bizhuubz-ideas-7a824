@@ -18,7 +18,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Environmental advertising
+      - title: 'Environmental advertising:'
         content: "such as billboards, which are not used in some campaigns due to high costs.\_Of course, depending on the type of business, using this method does not apply to all campaigns.\n"
       - title: 'Telemarketing:'
         content: >-
