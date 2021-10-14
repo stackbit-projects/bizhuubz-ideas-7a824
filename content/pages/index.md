@@ -19,10 +19,7 @@ sections:
     is_numbered: true
     grid_items:
       - title: Environmental advertising
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "such as billboards, which are not used in some campaigns due to high costs.\_Of course, depending on the type of business, using this method does not apply to all campaigns.\n"
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
