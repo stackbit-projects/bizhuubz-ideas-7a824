@@ -9,7 +9,7 @@ sections:
       their non-financial staff
     actions:
       - label: Let's talk
-        url: /contact
+        url: 'https://www.targetedwebtraffic.com/contact-us/'
         style: button
   - section_id: latest-projects
     type: section_portfolio
