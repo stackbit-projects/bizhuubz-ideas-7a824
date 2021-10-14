@@ -30,6 +30,22 @@ sections:
           most web traffic](https://www.seo25.com/), you need to advertise on
           sites that have a thematic connection to your site, or at least there
           are common customers in between.
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_content
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
