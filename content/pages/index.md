@@ -30,7 +30,7 @@ sections:
           most web traffic](https://www.seo25.com/), you need to advertise on
           sites that have a thematic connection to your site, or at least there
           are common customers in between.
-  - title: lorem-ipsum
+  - title: The Best Ways to Increase Online Sales up to 300%
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
