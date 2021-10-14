@@ -20,7 +20,7 @@ sections:
     grid_items:
       - title: Environmental advertising
         content: "such as billboards, which are not used in some campaigns due to high costs.\_Of course, depending on the type of business, using this method does not apply to all campaigns.\n"
-      - title: Service Title
+      - title: 'Telemarketing:'
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
