@@ -22,7 +22,7 @@ sections:
         content: "such as billboards, which are not used in some campaigns due to high costs.\_Of course, depending on the type of business, using this method does not apply to all campaigns.\n"
       - title: 'Telemarketing:'
         content: "Another method used in campaigns, although you need to know how to implement it to be able to use this low-cost method effectively.\_This advertising method is one of the direct methods of attracting potential customers.\_To be successful in telemarketing, you need to reach out to people who need the product or products directly, and make every phone call to your target customers.\_In this way, you will achieve better results with fewer contacts.\n"
-      - title: Service Title
+      - title: 'Social Media Advertising:'
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
